@@ -1,0 +1,7 @@
+zolo-sample-data.csv(Input)
+
+emptyData.csv(empty csv):
+After perform operation,In this file json data column and other column combined in one column
+
+Dataset.csv(cleared Final data)
+
